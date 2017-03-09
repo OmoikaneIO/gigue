@@ -1,5 +1,7 @@
 # Gigue
 
+[![Build Status](https://travis-ci.org/OmoikaneIO/gigue.svg?branch=master)](https://travis-ci.org/OmoikaneIO/gigue)
+
 ## What is this?
 
 This project contains Scala/ScalaJS code for generating *canonical* JSONs via
