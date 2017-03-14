@@ -35,6 +35,7 @@ To run this, you will need the following installed on your system:
 
    - sbt 0.13.13 (or greater)
    - JDK 1.8.0 (or greater)
+   - NodeJS v6.10.0 (or greater)
 
 
 ## Testing
